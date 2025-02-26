@@ -25,3 +25,10 @@ public class Inheritance {
 	}
 
 }
+
+//Most IDEs generate getters and setters automatically:
+//🔹 In IntelliJ IDEA:
+//
+//Right-click → Generate → Getter and Setter
+//🔹 In Eclipse:
+//Source → Generate Getters and Setters
