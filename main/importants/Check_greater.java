@@ -23,6 +23,8 @@ public class Check_greater {
 			System.out.println(y+" is greater Number.");
 		else
 			System.out.println(z+" is greater Number.");
+		
+		scanner.close();
 			
 	}
 

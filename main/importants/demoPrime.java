@@ -19,6 +19,8 @@ public class demoPrime {
         	 System.out.println(number + " is not a prime number. ");
          }
          sc.close();
+         
+         
 	}
 
 	private static boolean isPrime(int number) {

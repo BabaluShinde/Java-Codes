@@ -20,7 +20,8 @@ public class demoPalindrome {
 			
 			System.out.println(input+" is not a palindrome.");
 		}
-		
+		scanner.close();
+
 	}
 
 	private static boolean isPalindrome(String input) {
@@ -41,6 +42,8 @@ public class demoPalindrome {
 		}
 		
 		return true;
+		
+		
 	}
 
 }
