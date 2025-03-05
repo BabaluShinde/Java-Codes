@@ -1,4 +1,4 @@
-package com.sorting;
+package main.sorting;
 
 //A sample Java program to sort an array
 //in descending order using Arrays.sort().

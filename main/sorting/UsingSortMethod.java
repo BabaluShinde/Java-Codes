@@ -1,4 +1,4 @@
-package com.sorting;
+package main.sorting;
 
 //Java Program to sort an elements in ascending order
 
