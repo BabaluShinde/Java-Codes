@@ -24,10 +24,11 @@ public class LinkedListGetMethod {
 		// Trying to get an element 
         // at an invalid index
 		try {
-			int n=l.get(5);
+			int n =l.get(5);
+			System.out.println(n);
 		}
 		catch(IndexOutOfBoundsException e){
-			System.out.println("Error: Indexbounderror");
+			System.out.println("Error: IndexOutOfBoundsException");
 		}
 
 	}
